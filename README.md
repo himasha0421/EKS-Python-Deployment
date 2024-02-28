@@ -1,4 +1,9 @@
 # EKS-Python-Deployment
+
+## system design architecture
+
+![]("eks-microservices.drawio.png")
+
 scalable python solution deployment using EKS managed service.
 
 step1. setup eks cluster
